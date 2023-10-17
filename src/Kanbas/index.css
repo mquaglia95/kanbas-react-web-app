@@ -1,0 +1,32 @@
+.list-group-item {
+    background: black;
+    color: red;
+  }
+
+.list-group-item.active {
+    background: white;
+    color: red; 
+  }
+
+.wd-dashboard-grid .col {
+    width: 270px;
+    height: 375px;
+}
+
+.wd-dashboard-grid .row {
+    margin-bottom: 10px;
+}
+
+.wd-main-content-spacing {
+    margin-left: 25px;
+}
+
+.list-group-item.wd-course-nav {
+    background: white;
+    color: red; 
+}
+
+.list-group-item.wd-course-nav.active{
+    background: white;
+    color: red; 
+}
