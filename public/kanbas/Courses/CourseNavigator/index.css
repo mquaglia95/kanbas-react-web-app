@@ -1,0 +1,32 @@
+/* Boostrap Overrides For Course Navigator*/
+
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.list-group {
+    border-radius: 0;
+}
+
+.list-group-item {
+    color: red;
+    border: none;
+}
+
+.list-group-item a {
+    color: red;
+    text-decoration: none;
+  }
+
+.list-group-item.active {
+    color: black;
+    background-color: white;
+    border-color: white;
+    border-left: 3px solid black;
+}
+
+.list-group-item.active a {
+    color: black;
+}
